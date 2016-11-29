@@ -91,7 +91,10 @@ header {
 /* More info */
 .intro {
 	background-color: #FFFFFF;
-	padding-bottom: 35px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 400px;
+	padding-right: 400px;
 }
 .column {
 	width: 50%;
@@ -168,6 +171,7 @@ footer {
 .intro {
 	display: inline-block;
 	background-color: #6DC7D0;
+	width: 100%;
 }
 .profile {
 	width: 50%;
